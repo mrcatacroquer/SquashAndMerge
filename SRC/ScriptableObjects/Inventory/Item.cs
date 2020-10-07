@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿a
+using UnityEngine;
 
 // This simple script represents Items that can be picked
 // up in the game.  The inventory system is done using
