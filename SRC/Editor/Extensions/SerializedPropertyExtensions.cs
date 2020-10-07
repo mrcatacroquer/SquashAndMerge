@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-// This class contains extension methods for the SerializedProperty
+
 // class.  Specifically, methods for dealing with object arrays.
 public static class SerializedPropertyExtensions
 {
